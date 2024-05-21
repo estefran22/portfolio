@@ -4,7 +4,7 @@ body {
    font-family: 'Montserrat', sans-serif;
 }
 
-#contacto, #inicio {
+#contacto, #inicio{
    background-image: url(../Images/fondo-contacto.png);
    background-size: cover;
 }
@@ -169,7 +169,9 @@ nav {
    border-radius: 700px;
    height: 200px;
 }
-
+#stack-tecnologico{
+   background-color: #E20000;
+}
 
 
 
